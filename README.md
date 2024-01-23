@@ -20,7 +20,8 @@ power-ups, and hero abilities.
 
 "Sentinel Siege: Tower Defense Titans" offers a range of game functionalities to provide an
 engaging tower defense gaming experience. Here are some key functionalities of the game:
-• Tower Defense Mechanics: Players can strategically place and upgrade different types of
-towers across the game map to fend off waves of oncoming enemy creatures. Each tower
-has unique abilities and characteristics, such as damage type (e.g., fire, ice, poison), attack
-range, and attack speed.
+
+  1.Tower Defense Mechanics: Players can strategically place and upgrade different types of
+  towers across the game map to fend off waves of oncoming enemy creatures. Each tower
+  has unique abilities and characteristics, such as damage type (e.g., fire, ice, poison), attack
+  range, and attack speed.
